@@ -785,7 +785,6 @@ mode = 1
 position = Vector2( 0, 4.69334 )
 frames = SubResource( 77 )
 animation = "lava"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="YSort/RigidBody2D"]
